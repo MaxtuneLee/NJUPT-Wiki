@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "NJUPT WIKI",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "NJUPT WIKI 南邮生活指南",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,15 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/MaxtuneLee/NJUPT-Wiki.git"
   },
-  "author": "Shu Ding <g@shud.in>",
-  "license": "MIT",
+  "author": "Max <max@xox.im>",
+  "license": "CC BY-NC-SA 4.0",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/MaxtuneLee/NJUPT-Wiki/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://njuptwiki.vercel.app/",
   "dependencies": {
+    "@giscus/react": "^2.2.8",
     "next": "^13.0.6",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
